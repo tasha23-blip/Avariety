@@ -1,0 +1,20 @@
+.contact-section {
+    background-color: #1dcbd1; 
+    background-image: url(m.png);
+    padding: 20px; 
+    border: 1px solid #0a0a0a; 
+}
+
+.contact-section h2 {
+    color: #333; /* Color of the section heading */
+}
+
+.contact-info {
+    margin-top: 10px; /* Adjust spacing between heading and contact info */
+}
+
+.contact-info p {
+    margin: 5px 0; /* Adjust spacing between each contact information */
+    font-size: 16px; /* Adjust font size */
+    color: #666; /* Text color */
+}
